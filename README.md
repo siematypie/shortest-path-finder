@@ -12,6 +12,5 @@ To use your own graph, you have to provide csv in proper format. The graph has t
 Row in csv is equal to edge in graph. First and second cell should contain vertex labels, third cell should have edge weight positive integer. Your csv file should have comma as delimiter. 
 Example: Csv file with one line `A,B,100` would result in following graph:
 
-![example graph2](https://raw.githubusercontent.com/siematypie/shortest-path-finder/master/example.png)
-<img src="https://raw.githubusercontent.com/siematypie/shortest-path-finder/master/example.png" width="200">
+<img src="https://raw.githubusercontent.com/siematypie/shortest-path-finder/master/example.png" align="center" width="200">
 
