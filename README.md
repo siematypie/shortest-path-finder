@@ -1,6 +1,6 @@
 # shortest-path-finder
 This maven project contains my implementation of undirected graph structure and dijkstra algorithm in java with javafx gui and graphviz library for graph visualization. 
-![example graph](https://raw.githubusercontent.com/siematypie/shortest-path-finder/master/example_graph.png)
+![example graph](https://raw.githubusercontent.com/siematypie/shortest-path-finder/master/example.png)
 
 ## creating executable jar
 For creating executacle jar file this project is using awesome library called JavaFX Maven Plugin. Basically, all you have to do is to open project folder in terminal and call `mvn jfx:jar`. The jar-file will be placed at `target/jfx/app`. For more info, check out plugin's github page:
