@@ -10,4 +10,7 @@ For creating executacle jar file this project is using awesome library called Ja
 ## using the program
 To use your own graph, you have to provide csv in proper format. The graph has to be undirected, weighted and every node must have at least one connection with some other node.
 Row in csv is equal to edge in graph. First and second cell should contain vertex labels, third cell should have edge weight positive integer. Your csv file should have comma as delimiter. 
-Example: Csv file with one line `A,B,100` would result in following graph
+Example: Csv file with one line `A,B,100` would result in following graph:
+
+![example graph](https://raw.githubusercontent.com/siematypie/shortest-path-finder/master/example2.png =250x)
+
